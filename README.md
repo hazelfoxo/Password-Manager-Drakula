@@ -17,12 +17,6 @@ A simple password manager.
 ![image](https://github.com/notInori/Password-Manager-Drakula/assets/124441402/8816ef4d-29cb-49b1-930d-26770d537e3d)
 ##### Settings Screen
 ![image](https://github.com/notInori/Password-Manager-Drakula/assets/124441402/361d3595-acde-493e-b584-ec0ad693ca77)
-##### Color Picker
-![image](https://github.com/notInori/Password-Manager-Drakula/assets/124441402/9cf5e5a4-0be1-4be7-80b6-55326bf3ca5e)
-##### Confirmation
-![image](https://github.com/notInori/Password-Manager-Drakula/assets/124441402/1d53e3c5-5c4b-468f-b834-3fce9c6b4d97)
-##### Notification
-![image](https://github.com/notInori/Password-Manager-Drakula/assets/124441402/496bd647-88f6-45e8-aba7-8cfe152d625f)
 
 ## Installation
 
