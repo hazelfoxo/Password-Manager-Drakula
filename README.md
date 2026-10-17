@@ -1,5 +1,9 @@
 # Password Manager
-A simple password manager.
+A simple password manager that i built during my A-Levels.
+
+> [!CAUTION]
+> **Use this project at your own risk!**  
+> I can't guarantee the safety or security of your passwords. There are no recovery mechanisms if you lose your password. 
 
 ## Screenshots
 
