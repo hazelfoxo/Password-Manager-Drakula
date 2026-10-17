@@ -55,5 +55,5 @@ A simple password manager that i built during my A-Levels.
   ```
 
 ### Setup
-- Go to `Settings`
-- Under `User Credentials`, you can change the username and password to your preffered values here. 
+- Go to `Settings > User Credentials`
+- You can change the username and password to your preffered values. 
