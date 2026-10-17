@@ -1,5 +1,5 @@
 # Password Manager
-A simple password manager that i built during my A-Levels.
+A simple encryption-protected password manager that I built during my A-Levels.
 
 > [!CAUTION]
 > **Don't use this for real passwords!**  
