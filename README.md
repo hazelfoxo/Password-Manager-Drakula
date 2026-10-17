@@ -2,8 +2,15 @@
 A simple password manager that i built during my A-Levels.
 
 > [!CAUTION]
-> **Use this project at your own risk!**  
-> I can't guarantee the safety or security of your passwords. There are no recovery mechanisms if you lose your password. 
+> **Don't use this for real passwords!**  
+> Seriously, don't use it for real passwords. It's laughably insecure and full of bad security practises. You will also lose access to your passwods if you forget the master password.
+
+## Features
+- User authentication
+- Basic password encryption backed by user authentication
+- Password searching
+- Accent colour customisation
+- Meme features
 
 ## Screenshots
 
@@ -32,10 +39,21 @@ A simple password manager that i built during my A-Levels.
 ### Installing
 - To install, extract the zip into a directory.
 
-## Using Password Manager
+## Usage
 
-### Starting The Program
+### Starting the Program
 - Run `Password Manager.exe` to start the program and load the login window.
 - Log into the password manager with the default credentials.  
-  Username: `Inori`
-  Password: `1234`
+
+  Username: 
+  ```
+  Inori
+  ```  
+  Password: 
+  ```
+  1234
+  ```
+
+### Setup
+- Go to `Settings`
+- Under `User Credentials`, you can change the username and password to your preffered values here. 
